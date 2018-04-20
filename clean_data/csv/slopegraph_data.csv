@@ -1,0 +1,313 @@
+"","country","region","year","happy_index","change"
+"1","Afghanistan","South Asia","2018",3.63150000572205,-0.688337802886963
+"2","Albania","Central and Eastern Europe","2018",4.58599996566772,-0.791440963745117
+"3","Algeria","Middle East and North Africa","2018",5.29460000991821,-0.168929100036621
+"4","Angola","Sub-Saharan Africa","2018",3.79480004310608,NA
+"5","Argentina","Latin America and Caribbean","2018",6.38800001144409,0.112429618835449
+"6","Armenia","Commonwealth of Independent States","2018",4.3206000328064,-0.0783843994140625
+"7","Australia","North America and ANZ","2018",7.27209997177124,-0.0794711112976074
+"8","Austria","Western Europe","2018",7.13940000534058,-0.122659206390381
+"9","Azerbaijan","Commonwealth of Independent States","2018",5.20060014724731,0.66334056854248
+"10","Bahrain","Middle East and North Africa","2018",6.10510015487671,0.28879976272583
+"11","Bangladesh","South Asia","2018",4.50040006637573,-0.497479915618896
+"12","Belarus","Commonwealth of Independent States","2018",5.48330020904541,-0.0339035987854004
+"13","Belgium","Western Europe","2018",6.92689990997314,-0.0581493377685547
+"14","Belize","Latin America and Caribbean","2018",5.95559978485107,NA
+"15","Benin","Sub-Saharan Africa","2018",4.14139986038208,0.47422456741333
+"16","Bhutan","South Asia","2018",5.08209991455078,NA
+"17","Bolivia","Latin America and Caribbean","2018",5.75190019607544,0.0294971466064453
+"18","Bosnia and Herzegovina","Central and Eastern Europe","2018",5.12939977645874,0.313358306884766
+"19","Botswana","Sub-Saharan Africa","2018",3.58979988098145,-0.911104917526245
+"20","Brazil","Latin America and Caribbean","2018",6.41890001296997,-0.424095153808594
+"21","Bulgaria","Central and Eastern Europe","2018",4.93310022354126,1.02084827423096
+"22","Burkina Faso","Sub-Saharan Africa","2018",4.42439985275269,0.482404232025146
+"23","Burundi","Sub-Saharan Africa","2018",2.90450000762939,-0.773024559020996
+"24","Cambodia","Southeast Asia","2018",4.4326000213623,0.19366979598999
+"25","Cameroon","Sub-Saharan Africa","2018",4.97529983520508,0.445079326629639
+"26","Canada","North America and ANZ","2018",7.32849979400635,-0.212795257568359
+"27","Central African Republic","Sub-Saharan Africa","2018",3.08299994468689,-0.484894990921021
+"28","Chad","Sub-Saharan Africa","2018",4.30060005187988,0.295659065246582
+"29","Chile","Latin America and Caribbean","2018",6.47620010375977,0.186398983001709
+"30","China","East Asia","2018",5.24580001831055,0.591510772705078
+"31","Colombia","Latin America and Caribbean","2018",6.2600998878479,-0.0225353240966797
+"32","Congo (Brazzaville)","Sub-Saharan Africa","2018",4.55870008468628,0.738879203796387
+"33","Congo (Kinshasa)","Sub-Saharan Africa","2018",4.24490022659302,0.261097431182861
+"34","Costa Rica","Latin America and Caribbean","2018",7.07170009613037,-0.175240516662598
+"35","Croatia","Central and Eastern Europe","2018",5.32119989395142,-0.197666645050049
+"36","Cyprus","Western Europe","2018",5.76249980926514,-0.772998332977295
+"37","Czech Republic","Central and Eastern Europe","2018",6.7108998298645,0.461287021636963
+"38","Denmark","Western Europe","2018",7.55530023574829,-0.253184795379639
+"39","Dominican Republic","Latin America and Caribbean","2018",5.30179977416992,0.297864437103271
+"40","Ecuador","Latin America and Caribbean","2018",5.97319984436035,0.254607200622559
+"41","Egypt","Middle East and North Africa","2018",4.41919994354248,-0.401822566986084
+"42","El Salvador","Latin America and Caribbean","2018",6.16680002212524,-0.0915546417236328
+"43","Estonia","Central and Eastern Europe","2018",5.73920011520386,0.444779872894287
+"44","Ethiopia","Sub-Saharan Africa","2018",4.35020017623901,NA
+"45","Finland","Western Europe","2018",7.63210010528564,0.100029945373535
+"46","France","Western Europe","2018",6.48929977416992,-0.208125591278076
+"47","Gabon","Sub-Saharan Africa","2018",4.75829982757568,NA
+"48","Georgia","Commonwealth of Independent States","2018",4.34049987792969,0.316639423370361
+"49","Germany","Western Europe","2018",6.96470022201538,0.369257926940918
+"50","Ghana","Sub-Saharan Africa","2018",4.65700006484985,0.0664029121398926
+"51","Greece","Western Europe","2018",5.35790014266968,-0.581308364868164
+"52","Guatemala","Latin America and Caribbean","2018",6.3818998336792,-0.00352144241333008
+"53","Guinea","Sub-Saharan Africa","2018",3.9640998840332,NA
+"54","Haiti","Latin America and Caribbean","2018",3.58200001716614,-0.223927736282349
+"55","Honduras","Latin America and Caribbean","2018",5.50400018692017,-0.268886566162109
+"56","Hong Kong S.A.R. of China","East Asia","2018",5.43039989471436,0.0375881195068359
+"57","Hungary","Central and Eastern Europe","2018",5.61999988555908,0.81028413772583
+"58","Iceland","Western Europe","2018",7.49520015716553,0.606941699981689
+"59","India","South Asia","2018",4.18979978561401,-0.697626113891602
+"60","Indonesia","Southeast Asia","2018",5.09259986877441,-0.160397052764893
+"61","Iran","Middle East and North Africa","2018",4.70660018920898,-0.422426223754883
+"62","Iraq","Middle East and North Africa","2018",4.45559978485107,-0.398876190185547
+"63","Ireland","Western Europe","2018",6.97709989547729,-0.362651824951172
+"64","Israel","Middle East and North Africa","2018",7.19000005722046,-0.13441276550293
+"65","Italy","Western Europe","2018",6.00040006637573,-0.488899707794189
+"66","Ivory Coast","Sub-Saharan Africa","2018",4.67119979858398,0.474027156829834
+"67","Jamaica","Latin America and Caribbean","2018",5.88980007171631,NA
+"68","Japan","East Asia","2018",5.91499996185303,-0.0117287635803223
+"69","Jordan","Middle East and North Africa","2018",5.16069984436035,-0.453327178955078
+"70","Kazakhstan","Commonwealth of Independent States","2018",5.79010009765625,0.197290897369385
+"71","Kenya","Sub-Saharan Africa","2018",4.4096999168396,0.276046276092529
+"72","Kosovo","Central and Eastern Europe","2018",5.66209983825684,0.135727882385254
+"73","Kuwait","Middle East and North Africa","2018",6.08339977264404,-0.608523368835449
+"74","Kyrgyzstan","Commonwealth of Independent States","2018",5.13079977035522,0.196397304534912
+"75","Laos","Southeast Asia","2018",4.62309980392456,-0.420958042144775
+"76","Latvia","Central and Eastern Europe","2018",5.93310022354126,1.02639579772949
+"77","Lebanon","Middle East and North Africa","2018",5.19890022277832,0.184722900390625
+"78","Lesotho","Sub-Saharan Africa","2018",3.80819988250732,NA
+"79","Liberia","Sub-Saharan Africa","2018",3.49539995193481,-0.713324785232544
+"80","Libya","Middle East and North Africa","2018",5.5657000541687,NA
+"81","Lithuania","Central and Eastern Europe","2018",5.95190000534058,0.659889698028564
+"82","Luxembourg","Western Europe","2018",6.90990018844604,-0.140908241271973
+"83","Macedonia","Central and Eastern Europe","2018",5.18480014801025,0.880183219909668
+"84","Madagascar","Sub-Saharan Africa","2018",3.77360010147095,-0.866449594497681
+"85","Malawi","Sub-Saharan Africa","2018",3.58680009841919,-1.5614767074585
+"86","Malaysia","Southeast Asia","2018",6.3221001625061,0.732593059539795
+"87","Mali","Sub-Saharan Africa","2018",4.44700002670288,0.495826721191406
+"88","Malta","Western Europe","2018",6.62659978866577,0.66663122177124
+"89","Mauritania","Sub-Saharan Africa","2018",4.35550022125244,-0.205923557281494
+"90","Mauritius","Sub-Saharan Africa","2018",5.8914999961853,NA
+"91","Mexico","Latin America and Caribbean","2018",6.48820018768311,-0.376495838165283
+"92","Moldova","Commonwealth of Independent States","2018",5.63969993591309,0.0907645225524902
+"93","Mongolia","East Asia","2018",5.12459993362427,0.58497953414917
+"94","Montenegro","Central and Eastern Europe","2018",5.34749984741211,0.220958232879639
+"95","Morocco","Middle East and North Africa","2018",5.2536997795105,0.870465755462646
+"96","Mozambique","Sub-Saharan Africa","2018",4.41660022735596,-0.236974239349365
+"97","Myanmar","Southeast Asia","2018",4.30779981613159,NA
+"98","Namibia","Sub-Saharan Africa","2018",4.44129991531372,NA
+"99","Nepal","South Asia","2018",4.88040018081665,0.310854911804199
+"100","Netherlands","Western Europe","2018",7.44129991531372,-0.125106334686279
+"101","New Zealand","North America and ANZ","2018",7.3238000869751,0.0214948654174805
+"102","Nicaragua","Latin America and Caribbean","2018",6.14099979400635,0.76044225692749
+"103","Niger","Sub-Saharan Africa","2018",4.16550016403198,-0.0355825424194336
+"104","Nigeria","Sub-Saharan Africa","2018",5.15539979934692,0.262810707092285
+"105","North Cyprus","Western Europe","2018",5.83479976654053,NA
+"106","Norway","Western Europe","2018",7.59369993209839,-0.0385727882385254
+"107","Pakistan","South Asia","2018",5.47249984741211,0.47022008895874
+"108","Palestinian Territories","Middle East and North Africa","2018",4.74329996109009,0.197306632995605
+"109","Panama","Latin America and Caribbean","2018",6.42999982833862,-0.665175914764404
+"110","Paraguay","Latin America and Caribbean","2018",5.6806001663208,0.018394947052002
+"111","Peru","Latin America and Caribbean","2018",5.66319990158081,0.242562294006348
+"112","Philippines","Southeast Asia","2018",5.52409982681274,0.720180034637451
+"113","Poland","Central and Eastern Europe","2018",6.1230001449585,0.275109767913818
+"114","Portugal","Western Europe","2018",5.41039991378784,0.108314514160156
+"115","Qatar","Middle East and North Africa","2018",6.37449979782104,-0.186820030212402
+"116","Romania","Central and Eastern Europe","2018",5.94519996643066,0.806694030761719
+"117","Russia","Commonwealth of Independent States","2018",5.80970001220703,0.422250747680664
+"118","Rwanda","Sub-Saharan Africa","2018",3.40809988975525,-0.787680387496948
+"119","Saudi Arabia","Middle East and North Africa","2018",6.37090015411377,0.0160613059997559
+"120","Senegal","Sub-Saharan Africa","2018",4.63110017776489,0.167741298675537
+"121","Serbia","Central and Eastern Europe","2018",5.39820003509521,0.977624893188477
+"122","Sierra Leone","Sub-Saharan Africa","2018",4.5706000328064,1.00566744804382
+"123","Singapore","Southeast Asia","2018",6.34320020675659,-0.164323329925537
+"124","Slovakia","Central and Eastern Europe","2018",6.17339992523193,0.121199131011963
+"125","Slovenia","Central and Eastern Europe","2018",5.9475998878479,-0.050133228302002
+"126","Somaliland region","Sub-Saharan Africa","2018",4.98150014877319,NA
+"127","South Africa","Sub-Saharan Africa","2018",4.72399997711182,-0.348079681396484
+"128","South Korea","East Asia","2018",5.87489986419678,0.158480644226074
+"129","South Sudan","Sub-Saharan Africa","2018",3.25419998168945,NA
+"130","Spain","Western Europe","2018",6.30989980697632,-0.247976303100586
+"131","Sri Lanka","South Asia","2018",4.47060012817383,0.26489782333374
+"132","Sudan","Sub-Saharan Africa","2018",4.13870000839233,-0.306270122528076
+"133","Sweden","Western Europe","2018",7.3144998550415,-0.111707210540771
+"134","Switzerland","Western Europe","2018",7.48729991912842,-0.0372090339660645
+"135","Syria","Middle East and North Africa","2018",3.46189999580383,-1.40069508552551
+"136","Taiwan Province of China","East Asia","2018",6.44059991836548,0.553637504577637
+"137","Tajikistan","Commonwealth of Independent States","2018",5.35249996185303,0.677334785461426
+"138","Tanzania","Sub-Saharan Africa","2018",3.3034999370575,-0.365739583969116
+"139","Thailand","Southeast Asia","2018",6.07229995727539,0.299682140350342
+"140","Togo","Sub-Saharan Africa","2018",3.99850010871887,1.19064569473267
+"141","Trinidad and Tobago","Latin America and Caribbean","2018",6.19189977645874,-0.504584312438965
+"142","Tunisia","Middle East and North Africa","2018",4.59240007400513,-0.503992557525635
+"143","Turkey","Middle East and North Africa","2018",5.48250007629395,0.208359718322754
+"144","Turkmenistan","Commonwealth of Independent States","2018",5.63619995117188,-0.931490898132324
+"145","Uganda","Sub-Saharan Africa","2018",4.16079998016357,-0.297055244445801
+"146","Ukraine","Commonwealth of Independent States","2018",4.10290002822876,-1.03018236160278
+"147","United Arab Emirates","Middle East and North Africa","2018",6.77409982681274,-0.208324909210205
+"148","United Kingdom","Western Europe","2018",6.81430006027222,-0.159844875335693
+"149","United States","North America and ANZ","2018",6.88600015640259,-0.314675331115723
+"150","Uruguay","Latin America and Caribbean","2018",6.37879991531372,0.374052047729492
+"151","Uzbekistan","Commonwealth of Independent States","2018",6.09609985351562,0.873773097991943
+"152","Venezuela","Latin America and Caribbean","2018",4.8056001663208,-2.16712665557861
+"153","Vietnam","Southeast Asia","2018",5.10319995880127,-0.25779390335083
+"154","Yemen","Middle East and North Africa","2018",3.35489988327026,-1.22377753257751
+"155","Zambia","Sub-Saharan Africa","2018",4.37709999084473,-0.617166996002197
+"156","Zimbabwe","Sub-Saharan Africa","2018",3.69230008125305,-0.278287649154663
+"157","Afghanistan","South Asia","2010",4.31983780860901,-0.688337802886963
+"158","Albania","Central and Eastern Europe","2010",5.37744092941284,-0.791440963745117
+"159","Algeria","Middle East and North Africa","2010",5.46352910995483,-0.168929100036621
+"160","Angola","Sub-Saharan Africa","2010",NA,NA
+"161","Argentina","Latin America and Caribbean","2010",6.27557039260864,0.112429618835449
+"162","Armenia","Commonwealth of Independent States","2010",4.39898443222046,-0.0783843994140625
+"163","Australia","North America and ANZ","2010",7.35157108306885,-0.0794711112976074
+"164","Austria","Western Europe","2010",7.26205921173096,-0.122659206390381
+"165","Azerbaijan","Commonwealth of Independent States","2010",4.53725957870483,0.66334056854248
+"166","Bahrain","Middle East and North Africa","2010",5.81630039215088,0.28879976272583
+"167","Bangladesh","South Asia","2010",4.99787998199463,-0.497479915618896
+"168","Belarus","Commonwealth of Independent States","2010",5.51720380783081,-0.0339035987854004
+"169","Belgium","Western Europe","2010",6.9850492477417,-0.0581493377685547
+"170","Belize","Latin America and Caribbean","2010",NA,NA
+"171","Benin","Sub-Saharan Africa","2010",3.66717529296875,0.47422456741333
+"172","Bhutan","South Asia","2010",NA,NA
+"173","Bolivia","Latin America and Caribbean","2010",5.72240304946899,0.0294971466064453
+"174","Bosnia and Herzegovina","Central and Eastern Europe","2010",4.81604146957397,0.313358306884766
+"175","Botswana","Sub-Saharan Africa","2010",4.50090479850769,-0.911104917526245
+"176","Brazil","Latin America and Caribbean","2010",6.84299516677856,-0.424095153808594
+"177","Bulgaria","Central and Eastern Europe","2010",3.9122519493103,1.02084827423096
+"178","Burkina Faso","Sub-Saharan Africa","2010",3.94199562072754,0.482404232025146
+"179","Burundi","Sub-Saharan Africa","2010",3.67752456665039,-0.773024559020996
+"180","Cambodia","Southeast Asia","2010",4.23893022537231,0.19366979598999
+"181","Cameroon","Sub-Saharan Africa","2010",4.53022050857544,0.445079326629639
+"182","Canada","North America and ANZ","2010",7.54129505157471,-0.212795257568359
+"183","Central African Republic","Sub-Saharan Africa","2010",3.56789493560791,-0.484894990921021
+"184","Chad","Sub-Saharan Africa","2010",4.0049409866333,0.295659065246582
+"185","Chile","Latin America and Caribbean","2010",6.28980112075806,0.186398983001709
+"186","China","East Asia","2010",4.65428924560547,0.591510772705078
+"187","Colombia","Latin America and Caribbean","2010",6.28263521194458,-0.0225353240966797
+"188","Congo (Brazzaville)","Sub-Saharan Africa","2010",3.81982088088989,0.738879203796387
+"189","Congo (Kinshasa)","Sub-Saharan Africa","2010",3.98380279541016,0.261097431182861
+"190","Costa Rica","Latin America and Caribbean","2010",7.24694061279297,-0.175240516662598
+"191","Croatia","Central and Eastern Europe","2010",5.51886653900146,-0.197666645050049
+"192","Cyprus","Western Europe","2010",6.53549814224243,-0.772998332977295
+"193","Czech Republic","Central and Eastern Europe","2010",6.24961280822754,0.461287021636963
+"194","Denmark","Western Europe","2010",7.80848503112793,-0.253184795379639
+"195","Dominican Republic","Latin America and Caribbean","2010",5.00393533706665,0.297864437103271
+"196","Ecuador","Latin America and Caribbean","2010",5.71859264373779,0.254607200622559
+"197","Egypt","Middle East and North Africa","2010",4.82102251052856,-0.401822566986084
+"198","El Salvador","Latin America and Caribbean","2010",6.25835466384888,-0.0915546417236328
+"199","Estonia","Central and Eastern Europe","2010",5.29442024230957,0.444779872894287
+"200","Ethiopia","Sub-Saharan Africa","2010",NA,NA
+"201","Finland","Western Europe","2010",7.53207015991211,0.100029945373535
+"202","France","Western Europe","2010",6.697425365448,-0.208125591278076
+"203","Gabon","Sub-Saharan Africa","2010",NA,NA
+"204","Georgia","Commonwealth of Independent States","2010",4.02386045455933,0.316639423370361
+"205","Germany","Western Europe","2010",6.59544229507446,0.369257926940918
+"206","Ghana","Sub-Saharan Africa","2010",4.59059715270996,0.0664029121398926
+"207","Greece","Western Europe","2010",5.93920850753784,-0.581308364868164
+"208","Guatemala","Latin America and Caribbean","2010",6.38542127609253,-0.00352144241333008
+"209","Guinea","Sub-Saharan Africa","2010",NA,NA
+"210","Haiti","Latin America and Caribbean","2010",3.80592775344849,-0.223927736282349
+"211","Honduras","Latin America and Caribbean","2010",5.77288675308228,-0.268886566162109
+"212","Hong Kong S.A.R. of China","East Asia","2010",5.39281177520752,0.0375881195068359
+"213","Hungary","Central and Eastern Europe","2010",4.80971574783325,0.81028413772583
+"214","Iceland","Western Europe","2010",6.88825845718384,0.606941699981689
+"215","India","South Asia","2010",4.88742589950562,-0.697626113891602
+"216","Indonesia","Southeast Asia","2010",5.25299692153931,-0.160397052764893
+"217","Iran","Middle East and North Africa","2010",5.12902641296387,-0.422426223754883
+"218","Iraq","Middle East and North Africa","2010",4.85447597503662,-0.398876190185547
+"219","Ireland","Western Europe","2010",7.33975172042847,-0.362651824951172
+"220","Israel","Middle East and North Africa","2010",7.32441282272339,-0.13441276550293
+"221","Italy","Western Europe","2010",6.48929977416992,-0.488899707794189
+"222","Ivory Coast","Sub-Saharan Africa","2010",4.19717264175415,0.474027156829834
+"223","Jamaica","Latin America and Caribbean","2010",NA,NA
+"224","Japan","East Asia","2010",5.92672872543335,-0.0117287635803223
+"225","Jordan","Middle East and North Africa","2010",5.61402702331543,-0.453327178955078
+"226","Kazakhstan","Commonwealth of Independent States","2010",5.59280920028687,0.197290897369385
+"227","Kenya","Sub-Saharan Africa","2010",4.13365364074707,0.276046276092529
+"228","Kosovo","Central and Eastern Europe","2010",5.52637195587158,0.135727882385254
+"229","Kuwait","Middle East and North Africa","2010",6.69192314147949,-0.608523368835449
+"230","Kyrgyzstan","Commonwealth of Independent States","2010",4.93440246582031,0.196397304534912
+"231","Laos","Southeast Asia","2010",5.04405784606934,-0.420958042144775
+"232","Latvia","Central and Eastern Europe","2010",4.90670442581177,1.02639579772949
+"233","Lebanon","Middle East and North Africa","2010",5.0141773223877,0.184722900390625
+"234","Lesotho","Sub-Saharan Africa","2010",NA,NA
+"235","Liberia","Sub-Saharan Africa","2010",4.20872473716736,-0.713324785232544
+"236","Libya","Middle East and North Africa","2010",NA,NA
+"237","Lithuania","Central and Eastern Europe","2010",5.29201030731201,0.659889698028564
+"238","Luxembourg","Western Europe","2010",7.05080842971802,-0.140908241271973
+"239","Macedonia","Central and Eastern Europe","2010",4.30461692810059,0.880183219909668
+"240","Madagascar","Sub-Saharan Africa","2010",4.64004969596863,-0.866449594497681
+"241","Malawi","Sub-Saharan Africa","2010",5.14827680587769,-1.5614767074585
+"242","Malaysia","Southeast Asia","2010",5.58950710296631,0.732593059539795
+"243","Mali","Sub-Saharan Africa","2010",3.95117330551147,0.495826721191406
+"244","Malta","Western Europe","2010",5.95996856689453,0.66663122177124
+"245","Mauritania","Sub-Saharan Africa","2010",4.56142377853394,-0.205923557281494
+"246","Mauritius","Sub-Saharan Africa","2010",NA,NA
+"247","Mexico","Latin America and Caribbean","2010",6.86469602584839,-0.376495838165283
+"248","Moldova","Commonwealth of Independent States","2010",5.5489354133606,0.0907645225524902
+"249","Mongolia","East Asia","2010",4.5396203994751,0.58497953414917
+"250","Montenegro","Central and Eastern Europe","2010",5.12654161453247,0.220958232879639
+"251","Morocco","Middle East and North Africa","2010",4.38323402404785,0.870465755462646
+"252","Mozambique","Sub-Saharan Africa","2010",4.65357446670532,-0.236974239349365
+"253","Myanmar","Southeast Asia","2010",NA,NA
+"254","Namibia","Sub-Saharan Africa","2010",NA,NA
+"255","Nepal","South Asia","2010",4.56954526901245,0.310854911804199
+"256","Netherlands","Western Europe","2010",7.56640625,-0.125106334686279
+"257","New Zealand","North America and ANZ","2010",7.30230522155762,0.0214948654174805
+"258","Nicaragua","Latin America and Caribbean","2010",5.38055753707886,0.76044225692749
+"259","Niger","Sub-Saharan Africa","2010",4.20108270645142,-0.0355825424194336
+"260","Nigeria","Sub-Saharan Africa","2010",4.89258909225464,0.262810707092285
+"261","North Cyprus","Western Europe","2010",NA,NA
+"262","Norway","Western Europe","2010",7.63227272033691,-0.0385727882385254
+"263","Pakistan","South Asia","2010",5.00227975845337,0.47022008895874
+"264","Palestinian Territories","Middle East and North Africa","2010",4.54599332809448,0.197306632995605
+"265","Panama","Latin America and Caribbean","2010",7.09517574310303,-0.665175914764404
+"266","Paraguay","Latin America and Caribbean","2010",5.6622052192688,0.018394947052002
+"267","Peru","Latin America and Caribbean","2010",5.42063760757446,0.242562294006348
+"268","Philippines","Southeast Asia","2010",4.80391979217529,0.720180034637451
+"269","Poland","Central and Eastern Europe","2010",5.84789037704468,0.275109767913818
+"270","Portugal","Western Europe","2010",5.30208539962769,0.108314514160156
+"271","Qatar","Middle East and North Africa","2010",6.56131982803345,-0.186820030212402
+"272","Romania","Central and Eastern Europe","2010",5.13850593566895,0.806694030761719
+"273","Russia","Commonwealth of Independent States","2010",5.38744926452637,0.422250747680664
+"274","Rwanda","Sub-Saharan Africa","2010",4.1957802772522,-0.787680387496948
+"275","Saudi Arabia","Middle East and North Africa","2010",6.35483884811401,0.0160613059997559
+"276","Senegal","Sub-Saharan Africa","2010",4.46335887908936,0.167741298675537
+"277","Serbia","Central and Eastern Europe","2010",4.42057514190674,0.977624893188477
+"278","Sierra Leone","Sub-Saharan Africa","2010",3.56493258476257,1.00566744804382
+"279","Singapore","Southeast Asia","2010",6.50752353668213,-0.164323329925537
+"280","Slovakia","Central and Eastern Europe","2010",6.05220079421997,0.121199131011963
+"281","Slovenia","Central and Eastern Europe","2010",5.9977331161499,-0.050133228302002
+"282","Somaliland region","Sub-Saharan Africa","2010",NA,NA
+"283","South Africa","Sub-Saharan Africa","2010",5.0720796585083,-0.348079681396484
+"284","South Korea","East Asia","2010",5.7164192199707,0.158480644226074
+"285","South Sudan","Sub-Saharan Africa","2010",NA,NA
+"286","Spain","Western Europe","2010",6.5578761100769,-0.247976303100586
+"287","Sri Lanka","South Asia","2010",4.20570230484009,0.26489782333374
+"288","Sudan","Sub-Saharan Africa","2010",4.44497013092041,-0.306270122528076
+"289","Sweden","Western Europe","2010",7.42620706558228,-0.111707210540771
+"290","Switzerland","Western Europe","2010",7.52450895309448,-0.0372090339660645
+"291","Syria","Middle East and North Africa","2010",4.86259508132935,-1.40069508552551
+"292","Taiwan Province of China","East Asia","2010",5.88696241378784,0.553637504577637
+"293","Tajikistan","Commonwealth of Independent States","2010",4.6751651763916,0.677334785461426
+"294","Tanzania","Sub-Saharan Africa","2010",3.66923952102661,-0.365739583969116
+"295","Thailand","Southeast Asia","2010",5.77261781692505,0.299682140350342
+"296","Togo","Sub-Saharan Africa","2010",2.80785441398621,1.19064569473267
+"297","Trinidad and Tobago","Latin America and Caribbean","2010",6.69648408889771,-0.504584312438965
+"298","Tunisia","Middle East and North Africa","2010",5.09639263153076,-0.503992557525635
+"299","Turkey","Middle East and North Africa","2010",5.27414035797119,0.208359718322754
+"300","Turkmenistan","Commonwealth of Independent States","2010",6.5676908493042,-0.931490898132324
+"301","Uganda","Sub-Saharan Africa","2010",4.45785522460938,-0.297055244445801
+"302","Ukraine","Commonwealth of Independent States","2010",5.13308238983154,-1.03018236160278
+"303","United Arab Emirates","Middle East and North Africa","2010",6.98242473602295,-0.208324909210205
+"304","United Kingdom","Western Europe","2010",6.97414493560791,-0.159844875335693
+"305","United States","North America and ANZ","2010",7.20067548751831,-0.314675331115723
+"306","Uruguay","Latin America and Caribbean","2010",6.00474786758423,0.374052047729492
+"307","Uzbekistan","Commonwealth of Independent States","2010",5.22232675552368,0.873773097991943
+"308","Venezuela","Latin America and Caribbean","2010",6.97272682189941,-2.16712665557861
+"309","Vietnam","Southeast Asia","2010",5.3609938621521,-0.25779390335083
+"310","Yemen","Middle East and North Africa","2010",4.57867741584778,-1.22377753257751
+"311","Zambia","Sub-Saharan Africa","2010",4.99426698684692,-0.617166996002197
+"312","Zimbabwe","Sub-Saharan Africa","2010",3.97058773040771,-0.278287649154663
