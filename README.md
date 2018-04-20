@@ -1,4 +1,4 @@
-# World Happiness Report 2018
+# World Happiness Report 2018 :books:
 
 
 ## **Summary**
@@ -26,7 +26,8 @@ In the following data visualization we explore how happiness changes and the ong
 In order to easily explore the data set using Tableau we need to clean and simplify the data gathered. My main goal during the data wrangling process was to simplify the exploratory data analysis process by deleting irrelevant columns and finding mistakes in the data.
 
 
----------------------------------------------------------------------------------------------------------------------
+---
+
 
 **Data Wrangling**
 
@@ -75,8 +76,7 @@ Assess
   - Join Trinidad & Tobago with Trinidad and Tobago 
 
 
----------------------------------------------------------------------------------------------------------------------
-****
+---
 
 **Data Dictionary**
 
@@ -101,6 +101,8 @@ The wrangling process ended up with two files, TIME_DATA and HAPPINESS_DATA:
 | Delivery Quality                  | Float  | Measures of governance are based on Worldwide Governance Indicators: *Government Effectiveness, Regulatory Quality, Rule of Law, Control of Corruption*                                                                                                                                                                                                                                                                 |
 | GINI Household Income             | Float  | Measure of inequality using household income as a base                                                                                                                                                                                                                                                                                                                                                                  |
 
+
+---
 
 
 | **HAPPINESS_DATA**                                           |        |                                                                                                                        |
@@ -147,9 +149,10 @@ There is an element of change in the dataset, we have the different happiness va
 
 Finally on the last segment I wanted to compare the line graphs between different countries. I decided to use a series of small multiple charts in order to allow people to make easy comparisons and see tendecies the way this countries behaved.
 
-
+:bar_chart:
 
 ![Photo by Cristina Gottardi on Unsplash](https://d2mxuefqeaa7sj.cloudfront.net/s_BED08A47A13C2C4AA729AED41EA3569AE67D84CFB8AE2B92E486307D081DC1A0_1524237748530_cristina-gottardi-285467-unsplash.jpg)
+
 
 
 
@@ -159,6 +162,7 @@ I shared the visualization in the Udacity Data Science Slack channel twice. The 
 
 **Sharing my work:**
 
+:rocket: 
 Community Feedback:
 
 I shared my story on April 19th and got feedback by a student named Stuart Wilson ( @tuzgai ). He pointed out the following improvements:
@@ -168,6 +172,7 @@ I shared my story on April 19th and got feedback by a student named Stuart Wilso
 - Your explanatory text was good, but I wish it weren't presented as tiny text in a menu box.
 - With the number of regions represented, the legend wasn't as useful as it could be. It would be nice if the bars on the bar graphs were individually labelled.
 
+:angel: 
 Instructor Feedback:
 
 I shared my story on April 20th and got feedback by an instructor named Mike Yi (@tuzgai). He pointed out the following improvements:
@@ -180,7 +185,8 @@ I shared my story on April 20th and got feedback by an instructor named Mike Yi 
 - **Top 5 Gains / Losses**: Make it clear that you are exploring the top 5 positive and negative changes in the second half of your report. There are three countries missing from the “GDP” comparison. Using color to indicate the countries with positive change against those with negative change is okay, but consider other ways of organizing the plots. Put all the negative change countries on one side, and positive changes on the other side. Alternatively, just have two subplots: one for negative change countries, and the other for positive change countries.
 
 
----------------------------------------------------------------------------------------------------------------------
+---
+
 
 **Changes**
 
@@ -227,3 +233,6 @@ In order to address Mike Yi’s feedback:
 [](http://www.vizwiz.com/2016/03/tableau-tip-tuesday-how-to-create-small.html)- [How to create small multiples with custom rows and columns - vizwiz.com](http://www.vizwiz.com/2016/03/tableau-tip-tuesday-how-to-create-small.html)
 - [Slopegraph - vizwiz](http://www.vizwiz.com/2015/01/slopegraphs.html)
 
+--- 
+
+# Thanks for Reading :tada:
