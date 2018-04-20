@@ -228,7 +228,8 @@ After hearing the feedback about possible improvements or issues I decided to ta
 
 ## **References**
 - [Add jitter to a strip plot - doingdata.com](https://www.doingdata.org/blog/how-to-create-jitter-plot-strip-plot-in-tableau)
-[](http://www.vizwiz.com/2016/03/tableau-tip-tuesday-how-to-create-small.html)- [How to create small multiples with custom rows and columns - vizwiz.com](http://www.vizwiz.com/2016/03/tableau-tip-tuesday-how-to-create-small.html)
+[](http://www.vizwiz.com/2016/03/tableau-tip-tuesday-how-to-create-small.html)
+- [How to create small multiples with custom rows and columns - vizwiz.com](http://www.vizwiz.com/2016/03/tableau-tip-tuesday-how-to-create-small.html)
 - [Slopegraph - vizwiz](http://www.vizwiz.com/2015/01/slopegraphs.html)
 
 --- 
