@@ -130,6 +130,8 @@ The wrangling process ended up with two files, TIME_DATA and HAPPINESS_DATA:
 | Perceptions of corruption, 2015-2017                         | Float  | Perception of Corruption for the time period between 2015 - 2017. The higher the number the more perceived corruption. |
 
 
+:bookmark: :bookmark:
+
 During the visualization process I created an extra file called slopgraph.csv which has the some of the same variables reorganized to simplify the creation of a slopegraph.
 
 I also transformed the csv files to xlsx files using Excel to avoid some data type issues that where happening with Tableau. Both the csv files and the xlsx files are attached in my submission.
@@ -184,25 +186,21 @@ I shared my story on April 20th and got feedback by an instructor named Mike Yi 
 - **Happiness Map**: The legend is slightly redundant with the jittered strip plot and in fact is slightly misleading. The legend suggests 2 and 8 to be the min and max values, respectively, but the strip plot shows that these values aren’t reached, especially on the low end. The legend also suggests that the median break point is at 5, when the strip plot shows it is somewhere around 5.27, a somewhat odd value. I wonder if just showing a histogram instead of a strip plot will work better?
 - **Top 5 Gains / Losses**: Make it clear that you are exploring the top 5 positive and negative changes in the second half of your report. There are three countries missing from the “GDP” comparison. Using color to indicate the countries with positive change against those with negative change is okay, but consider other ways of organizing the plots. Put all the negative change countries on one side, and positive changes on the other side. Alternatively, just have two subplots: one for negative change countries, and the other for positive change countries.
 
-
 ---
-
 
 **Changes**
 
 After hearing the feedback about possible improvements or issues I decided to take action:
 
-In order to address Stuart Wilson’s feedback:
-
+:rocket: In order to address Stuart Wilson’s feedback:
 
 - Added reference lines to the graphs so they are more easy to read.
 - Cleaned the tags in the first slopegraph
 - Uncluttered the text on the story boxes
 - Spell Checked the whole story using Grammarly
 
-In order to address Mike Yi’s feedback:
-****
-****
+:angel:  In order to address Mike Yi’s feedback:
+
 - **Introduction:**
   - Double checked the text and the distribution. I also made the container a little bit more larger so it could fit the text more easily.
 - **Happiness:**
